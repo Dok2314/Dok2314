@@ -17,6 +17,10 @@ Senior программист, разработчик.
 
 ## 🛠 Технологии:
 <div align="left">
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" height="40" alt="PHP logo" />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="40" alt="JavaScript logo" />
+  <img width="12" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="40" alt="NodeJS logo" />
