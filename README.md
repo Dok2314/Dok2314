@@ -58,12 +58,15 @@ Senior программист, разработчик.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" />
 </div>
 
-## 🔥 Моя статистика
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dok2314&theme=dracula)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dok2314&theme=dracula)
-</div>
+###
 
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dok2314&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
