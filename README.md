@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Даниил!</h1>
+<h1 align="center">Hello👋 My name is Daniil!</h1>
 
 ###
 
@@ -24,18 +24,18 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-Я **Senior-Backend разработчик** с богатым опытом в создании архитектуры приложений и разработке API-сервисов. 🌟 Мой путь в программировании начался с изучения языка Си и Python, а также с погружения в мир data science. 📚
+I am a **Senior-Backend разработчик** with extensive experience in application architecture and API service development. 🌟 My programming journey began with learning C and Python, as well as diving into the world of data science. 📚
 
-Несмотря на разнообразие интересов, меня особенно привлекла **Backend разработка** на PHP и JavaScript. 🚀 Я начал свою карьеру на первом курсе университета, и теперь моё обучение успешно завершено. 🎓
+Despite my diverse interests, I was particularly drawn to Backend development with PHP and JavaScript. 🚀 I started my career during my first year of university, and now my studies are successfully completed. 🎓
 
-В работе я ценю возможность решать сложные задачи, создавать масштабируемые решения и всегда открыт для освоения новых технологий и подходов. 💪 В свободное время увлекаюсь изучением новых тенденций в разработке, занимаюсь участием в open-source проектах и делаю акцент на личностном и профессиональном росте. 🌱
+In my work, I value the opportunity to solve complex problems, create scalable solutions, and I am always open to exploring new technologies and approaches. 💪 In my free time, I enjoy learning about new development trends, participating in open-source projects, and focusing on personal and professional growth. 🌱
 
-## Специализация
-Senior программист, разработчик.
+## Specialization
+Senior Programmer, Developer.
 
-## 🛠 Технологии:
+## 🛠 Technologies:
 <div align="left">
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" height="40" alt="PHP logo" />
   <img width="12" />
@@ -80,7 +80,7 @@ Senior программист, разработчик.
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 My Statistics :</h3>
 
 ###
 
