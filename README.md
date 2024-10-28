@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior-Backend разработчик** with extensive experience in application architecture and API service development. 🌟 My programming journey began with learning C and Python, as well as diving into the world of data science. 📚
+I am a **Senior-Backend developer** with extensive experience in application architecture and API service development. 🌟 My programming journey began with learning C and Python, as well as diving into the world of data science. 📚
 
 Despite my diverse interests, I was particularly drawn to Backend development with PHP and JavaScript. 🚀 I started my career during my first year of university, and now my studies are successfully completed. 🎓
 
