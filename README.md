@@ -28,7 +28,7 @@
 
 I am a **Senior-Backend developer** with extensive experience in application architecture and API service development. 🌟 My programming journey began with learning C and Python, as well as diving into the world of data science. 📚
 
-Despite my diverse interests, I was particularly drawn to Backend development with PHP and JavaScript. 🚀 I started my career during my first year of university, and now my studies are successfully completed. 🎓
+Despite my diverse interests, I was particularly drawn to Backend development with GO, PHP and JavaScript. 🚀 I started my career during my first year of university, and now my studies are successfully completed. 🎓
 
 In my work, I value the opportunity to solve complex problems, create scalable solutions, and I am always open to exploring new technologies and approaches. 💪 In my free time, I enjoy learning about new development trends, participating in open-source projects, and focusing on personal and professional growth. 🌱
 
