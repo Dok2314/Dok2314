@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello👋 My name is Daniil!</h1>
+<h1 align="center">Hello👋 My name is Danylo!</h1>
 
 ###
 
