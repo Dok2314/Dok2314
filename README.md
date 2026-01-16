@@ -26,14 +26,27 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior-Backend developer** with extensive experience in application architecture and API service development. 🌟 My programming journey began with learning C and Python, as well as diving into the world of data science. 📚
+Hi 👋 I'm Danylo — Senior Backend Engineer focused on Go and high-load distributed systems.
 
-Despite my diverse interests, I was particularly drawn to Backend development with GO, PHP and JavaScript. 🚀 I started my career during my first year of university, and now my studies are successfully completed. 🎓
+I design and build production backend services with a strong emphasis on reliability,
+scalability, and clean architecture. Most of my recent work is under NDA and related
+to US-based HealthTech and FinTech products.
 
-In my work, I value the opportunity to solve complex problems, create scalable solutions, and I am always open to exploring new technologies and approaches. 💪 In my free time, I enjoy learning about new development trends, participating in open-source projects, and focusing on personal and professional growth. 🌱
+🧠 What I focus on:
+- Go (Golang): backend services, concurrency, clean architecture
+- Microservices: REST & gRPC, event-driven systems
+- Databases: PostgreSQL
+- Messaging: Kafka / RabbitMQ
+- Cloud: AWS (EC2, RDS, S3, ECS)
+- Reliability: idempotency, retries, fault tolerance, observability
 
-## Specialization
-Senior Programmer, Developer.
+🔒 Note:
+Most real-world code is private due to NDA. Public repositories are demos
+that showcase my engineering approach and coding style.
+
+📫 Contact:
+Telegram: @dok_dok_dok  
+Email: koversundanil@gmail.com
 
 ## 🛠 Technologies:
 <div align="left">
