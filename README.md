@@ -14,12 +14,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dok2314.dok2314" alt="Visitor Badge" />
-</div>
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
