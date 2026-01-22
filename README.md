@@ -20,23 +20,21 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm Danylo — Senior Backend Engineer focused on Go and high-load distributed systems.
+Hi 👋 I'm Danylo — Senior Backend Engineer with a primary focus on PHP and extensive experience in building scalable backend systems. I also have hands-on experience with Go, primarily in high-load and distributed system components.
 
-I design and build production backend services with a strong emphasis on reliability,
-scalability, and clean architecture. Most of my recent work is under NDA and related
-to US-based HealthTech and FinTech products.
+I design and develop production-grade backend services with a strong emphasis on clean architecture, reliability, and long-term maintainability. My recent work includes microservices and platform-level systems for HealthTech and FinTech products, mostly under NDA for US-based companies.
 
 🧠 What I focus on:
-- Go (Golang): backend services, concurrency, clean architecture
-- Microservices: REST & gRPC, event-driven systems
+- PHP (Laravel, Symfony): backend services, DDD, clean architecture
+- Go (Golang): high-load services, concurrency, performance-critical components
+- Microservices: REST & gRPC, event-driven architectures
 - Databases: PostgreSQL
 - Messaging: Kafka / RabbitMQ
 - Cloud: AWS (EC2, RDS, S3, ECS)
 - Reliability: idempotency, retries, fault tolerance, observability
 
 🔒 Note:
-Most real-world code is private due to NDA. Public repositories are demos
-that showcase my engineering approach and coding style.
+Most real-world production code is private due to NDA. Public repositories serve as demo projects that showcase my architectural approach and coding standards.
 
 📫 Contact:
 Telegram: @dok_dok_dok  
